@@ -11,7 +11,6 @@ class ListController < ApplicationController
       List.last.delete
       	render :index
 
-     
     	end 
 	end
 end
