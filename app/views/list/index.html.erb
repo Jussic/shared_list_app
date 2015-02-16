@@ -1,0 +1,26 @@
+<title> Shared List App </title>
+
+<div class="container">
+  <div class="row">
+    <div class="span4"> 
+	
+	<h1> List App </h1> 	
+	
+	<p> Start listing here! </p>
+	<hr> 
+	<div class="well">
+
+
+	<% @list_item.each do |t| %>
+	<li>  <%= t.list_item %>  </li> 
+<% end %>
+
+	</div> <!-- well -->
+    </div> <!-- span4 -->
+  </div> <!-- row -->
+</div> <!-- container -->
+
+<%= link_to "Delete last list", delete_path %>
+
+
+<!-- See notes about embedding Ruby functions --> 
