@@ -2,29 +2,9 @@
 
 LIST
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is for those who wish to envision everything they need to do, and create visuals of tasks that need t be perfomed. Welcome to "Lists", where you can create running lists of things that need to be done, and prioritize your lists .
 
-Things you may want to cover:
+A web app that creates lists, and coordinates with your calendar!
 
-* Ruby version
+This project is developed as a part of the mentorship program "Learn IT, Girl!". Special thanks goes out to Anahita, appreciate your supervision and mentorship!
 
-* System dependencies
-
-* Configuration
-
-* Database creation --> 
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
